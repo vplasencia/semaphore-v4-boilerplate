@@ -1,5 +1,5 @@
 <h1 align="center">
-    Semaphore Boilerplate
+    Semaphore Boilerplate 
 </h1>
 
 <p align="center">
